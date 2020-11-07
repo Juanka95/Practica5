@@ -1,0 +1,37 @@
+h1.JuanCarlos{
+
+    color:gray;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+header.titulo2{
+
+    background-color: maroon;
+
+    color: gray;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+article.texto{
+
+    background-color: mistyrose;
+}
+
+h3.subtitulos{
+
+    background-color: pink;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:brown;
+
+}
+
+footer.autor{
+
+
+    text-align: right;
+    background-color: mistyrose;
+}
